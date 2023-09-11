@@ -1,2 +1,3 @@
 # QE1
-Learning DevOps
+Learning DevOp
+Google Cloud
